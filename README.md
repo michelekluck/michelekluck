@@ -1,5 +1,5 @@
 ## Olá, eu sou a Michele Kluck ! (❁´◡`❁)
-- 🌱 Estudando Python
+- 🌱 Estudando Java
 - 🐸 Pronouns: ela/dela
 <div>
   <a href="https://github.com/michelekluck">
