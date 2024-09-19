@@ -1,5 +1,5 @@
 ## Olá, eu sou a Michele Kluck ! (❁´◡`❁)
-- 🌱 Estudando React
+- 🌱 Estudando Python 
 <div>
   <a href="https://github.com/michelekluck">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelekluck&hide_progress=false&theme=blue-green">
